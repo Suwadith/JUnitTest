@@ -1,6 +1,7 @@
 /**
  * Created by Suwadith on 7/6/2017.
  */
+
 public class Person {
 
     private String name;

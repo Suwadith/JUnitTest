@@ -5,6 +5,7 @@ import static org.junit.Assert.*;
 /**
  * Created by Suwadith on 7/6/2017.
  */
+
 public class PersonTest {
 
     private Person jack = new Person("Jack", 21, "Male");
@@ -35,5 +36,5 @@ public class PersonTest {
         assertTrue(jack.isHappy());
     }
 
-    
+
 }
